@@ -1,0 +1,6 @@
+{
+    "students": {
+        "getAll": "http://localhost:5700/api/v1/students",
+        "post": "http://localhost:5700/api/v1/students"
+    }
+}
